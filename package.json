@@ -9,7 +9,7 @@
         "email": "crytaro.officiel@gmail.com",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://valkrune.luuxis.fr",
+    "url": "https://valkrune3.odoo.com/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
